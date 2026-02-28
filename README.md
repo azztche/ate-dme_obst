@@ -1,6 +1,6 @@
 # ate-dme_obst
 
-Python SDK untuk Neva Objects S3-compatible storage.
+Unofficial Python SDK untuk Domainesia Objects Storage / Neva Objects S3-compatible storage.
 
 ## Instalasi
 
