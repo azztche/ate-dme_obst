@@ -5,7 +5,7 @@ Python SDK untuk Neva Objects S3-compatible storage.
 ## Instalasi
 
 ```bash
-pip install ate-dme.obst
+pip install ate-dme_obst
 ```
 
 ## Penggunaan
